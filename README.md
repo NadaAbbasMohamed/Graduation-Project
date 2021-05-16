@@ -10,7 +10,8 @@ The folder contains 2 files: The 1st is for generating the camera matrix and app
 
 is added a sample image showing the fisheye effect on the captured image and the chess board pattern used 8x8
 
-## Face Recognition algorithm at the door enterence to block unwanted/ suspicios people based on a predefined list of blocked people:
+## Face Recognition algorithm:
+used at the door enterence to block unwanted/ suspicios people based on a predefined list of blocked people
 
 ## Human detection and counting using yolo v3 model:
 
