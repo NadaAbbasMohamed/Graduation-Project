@@ -13,7 +13,10 @@ is added a sample image showing the fisheye effect on the captured image and the
 ## Face Recognition algorithm:
 used at the door enterence to block unwanted/ suspicios people based on a predefined list of blocked people
 
-## Human detection and counting using yolo v3 model:
+## Human detection and counting using yolo v3 model
+
+## Integration-Python-with-MATLAB
+This is a step by step in my way to integrate our python module project (3 Python codes imported together - ML based for human recognition and detection) into our MATLAB module (RADAR and RFID programs for tracking) in an aim to integrate the 3 outputs onto a single screen -GUI Interface Check the wiki of the project for the project operation sequence
 
 ## Other algorithms used and tested for the purpose of the project:
 ### 1- Background-Substraction-using-GMM:
